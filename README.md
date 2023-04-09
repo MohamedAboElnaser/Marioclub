@@ -1,6 +1,7 @@
 ## Simple Web Page 
 
- - This template related to [Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G) Course
+ - This template related to ***[Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)*** Course
+ - You can get the live demo from ***[here](https://mohamedaboelnaser.github.io/Marioclub/)***
  
 
 ## About the webpage: 
